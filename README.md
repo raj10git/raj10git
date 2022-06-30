@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rajat
 - Interested in backend and app development.
-- Currently learning Java, Data structures, Spring boot
+- Currently working on Java, Spring boot, MySQL, REST
+- Continuously learning DSA
 - Contact - singhrp.rajat98@gmail.com
