@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat
-- Interested in backend and app development.
-- Currently working on Java, Spring boot, MySQL, REST
-- Continuously learning DSA
+- Currently working as a backend developer at Deloitte USI
+- Currently working on Java, Spring boot, MySQL, REST and Jenkins
+- Continuously learning DSA for improving problem solving skills
 - Contact - singhrp.rajat98@gmail.com
