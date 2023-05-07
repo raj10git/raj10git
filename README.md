@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat
-- Currently working as a backend developer at Deloitte USI
-- Currently working on Java, Spring boot, MySQL, REST and Jenkins
+- Currently working as a backend developer at Oracle IDC
+- Experienced with Java, Spring boot, MySQL, Oracle SQL, REST, Jenkins
 - Continuously learning DSA for improving problem solving skills
 - Contact - singhrp.rajat98@gmail.com
