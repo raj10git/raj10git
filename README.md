@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat
 - Currently working as a backend developer at Oracle
-- Experienced with Java, Spring boot, MySQL, Oracle SQL, REST, Jenkins
+- Experienced with Java, Spring boot, MySQL, Oracle SQL, NoSQL REST, Jenkins
 - Continuously learning DSA to improve problem solving skills
 - Contact - singhrp.rajat98@gmail.com
