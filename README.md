@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat
 - Working as a Senior Software Engineer at Oracle
-- Experienced with Java, Spring boot, Microservices, Kafka, MySQL, Oracle SQL, NoSQL, REST, Jenkins
-- Continuously learning DSA to improve problem solving skills
+- Experienced with Java, Spring boot, Microservices, ElasticSearch, Kafka, MySQL, Oracle SQL, NoSQL, REST, Jenkins
+- Building through code!!
 - Contact - singhrp.rajat98@gmail.com
